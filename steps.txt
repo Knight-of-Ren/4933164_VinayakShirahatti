@@ -4,7 +4,9 @@ git init
 ========================
 git add .
 ========================
-git commit -m "somehting text"
+git commit -m "something text"
 ========================
 git push 
+========================
+git log
 ========================
