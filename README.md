@@ -4,4 +4,4 @@
 
 2. My simplilearn GIT certificate: ![Simplilearn_GIT_Certificate](https://github.com/Knight-of-Ren/4933164_VinayakShirahatti/blob/main/Git/simplilearn.png?raw=true)
 
-3. My sololearn certificate: https://github.com/Knight-of-Ren/4933164_VinayakShirahatti/blob/main/C%20programming/sololearn.pdf
+3. My sololearn certificate: ![Sololearn_Certificate](https://github.com/Knight-of-Ren/4933164_VinayakShirahatti/blob/main/C%20programming/sololearn.png?raw=true)
